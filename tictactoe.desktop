@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tic Tac Toe
+Exec=qmlscene $@ Main.qml
+Icon=tic-tac-toe.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

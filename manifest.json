@@ -1,0 +1,15 @@
+{
+    "name": "tic-tac-toe.llornkcor",
+    "description": "Tic tac toe game",
+    "architecture": "all",
+    "title": "tic-tac-toe",
+    "hooks": {
+        "app": {
+            "apparmor": "tictactoe.apparmor",
+            "desktop": "tictactoe.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Lorn Potter <lorn.potter@gmail.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
